@@ -27,5 +27,3 @@ A simple, beginner-friendly 2D platformer game built with Unity and C#. Designed
 
 ---
 
-## 📂 Project Structure
-

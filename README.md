@@ -1,5 +1,3 @@
-﻿# 2DGameDevelopmentWtihUnity
-
 # 🎮 2D Platformer Game | Unity (C#)
 
 A simple, beginner-friendly 2D platformer game built with Unity and C#. Designed to explore core game mechanics like movement, jumping, collision detection, and collectible items — all while keeping the code clean and modular.
@@ -30,3 +28,4 @@ A simple, beginner-friendly 2D platformer game built with Unity and C#. Designed
 ---
 
 ## 📂 Project Structure
+
